@@ -6,7 +6,9 @@ Este proyecto utiliza Vagrant y Chef para configurar y desplegar automáticament
 
 ### Clonar repo:
 
-git clone <URL_DEL_REPOSITORIO>
+git clone <URL_DEL_REPOSITORIO> 
+
+
 cd /wordpress-chef 
 
 ### Ejecuar VM: 
