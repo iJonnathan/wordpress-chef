@@ -4,19 +4,19 @@ Este proyecto utiliza Vagrant y Chef para configurar y desplegar automáticament
 
 ## **Comandos**
 
-# Clonar repo:
+### Clonar repo:
 
 git clone <URL_DEL_REPOSITORIO>
 cd /wordpress-chef 
 
-# Ejecuar VM: 
+### Ejecuar VM: 
 
 vagrant up
 
-# Ejecutar UNIT_TEST: 
+### Ejecutar UNIT_TEST: 
 
 chef exec rspec cookbooks/wordpress/spec/unit/recipes/default_spec.rb
 
-# Ejecutar INTEGRATION_TEST: 
+### Ejecutar INTEGRATION_TEST: 
 
 ?
