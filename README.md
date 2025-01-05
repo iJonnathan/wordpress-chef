@@ -11,7 +11,7 @@ git clone <URL_DEL_REPOSITORIO>
 
 cd /wordpress-chef 
 
-### Ejecuar VM: 
+### Ejecutar VM: 
 
 vagrant up
 
